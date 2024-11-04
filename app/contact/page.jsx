@@ -1,10 +1,7 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
-export default function Home() {
+export default function Contact() {
   return (
     <main>
-      <h1>Home</h1>
+      <h1>Contact</h1>
       <p>
         As the sun dipped below the horizon, a golden hue spread across the sky,
         painting clouds with strokes of pink and violet. A gentle breeze
